@@ -1,0 +1,4 @@
+/home/kirill/c++/Curve3D/build/CMakeFiles/CurveLB.dir
+/home/kirill/c++/Curve3D/build/CMakeFiles/Curve3D.dir
+/home/kirill/c++/Curve3D/build/CMakeFiles/edit_cache.dir
+/home/kirill/c++/Curve3D/build/CMakeFiles/rebuild_cache.dir

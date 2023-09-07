@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Curve3D.dir/src/main.cpp.o -o Curve3D  -Wl,-rpath,/home/kirill/c++/Curve3D/build libCurveLB.so 

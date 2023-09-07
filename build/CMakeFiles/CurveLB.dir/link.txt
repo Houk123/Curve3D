@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libCurveLB.so -o libCurveLB.so CMakeFiles/CurveLB.dir/lib/circle.cpp.o CMakeFiles/CurveLB.dir/lib/ellipses.cpp.o CMakeFiles/CurveLB.dir/lib/helix.cpp.o 
